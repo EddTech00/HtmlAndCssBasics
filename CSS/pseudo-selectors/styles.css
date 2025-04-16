@@ -1,0 +1,31 @@
+/*:hover selector*/
+button:hover{
+    background-color: red;
+    color: white;
+}
+
+/*:active selector*/
+button:active{
+    background-color: blue;
+}
+
+/*:visited Selector*/
+a:visited{
+    color: green;
+}
+
+/*:focus Selector*/
+input:focus{
+    background-color: yellow;
+    color: green;
+}
+
+/*:nth-child Selector*/
+p:nth-child(2n){
+    background-color: red;
+}
+
+/*:first-child & :last-child Selector*/
+p:first-child, p:last-child{
+    background-color: yellow;
+}

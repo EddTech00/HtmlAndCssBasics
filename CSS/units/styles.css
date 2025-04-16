@@ -1,0 +1,19 @@
+body{
+    font-size: 50px;
+}
+
+#r1{
+ font-size: 1rem;   
+}
+
+#e1{
+    font-size: 1em;
+}
+
+#r2{
+    font-size: 2rem;
+}
+
+#e2{
+    font-size: 2em;
+}

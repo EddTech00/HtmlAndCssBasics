@@ -1,0 +1,7 @@
+a[href^="https"]{
+    background-color: red;
+}
+
+input[type="email"]{
+    background-color: green;
+}

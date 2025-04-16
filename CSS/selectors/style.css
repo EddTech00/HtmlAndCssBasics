@@ -1,0 +1,49 @@
+p{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+/*SIMPLE SELECTOR*/
+
+/*Tag Selector*/
+h1{
+    background-color: blue;
+}
+
+/*Class Selector*/
+.redBackground{
+    background-color: red;
+}
+
+/*Id Selector*/
+#changeColor{
+    color: white;
+}
+
+/*Universal Selector*/
+*{
+    color: brown;
+}
+
+/*COMBINATED SELECTOR*/
+
+/*Descendent Selector*/
+div h1, div h2{
+    text-align: center;
+    background-color: blueviolet;
+}
+
+/*Child Selector*/
+section > h1{
+    background-color: aquamarine;
+}
+
+/*Adjacent Sibling Selector*/
+h1 + h2{
+    background-color: beige;
+}
+
+/*General Sibling Selector*/
+h1 ~ h3{
+    background-color: antiquewhite;
+}

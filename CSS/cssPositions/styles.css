@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#static{
+    background-color: red;
+    height: 100px;
+}
+
+#relative{
+    background-color: blue;
+    height: 100px;
+    opacity: 0.5;
+    position: relative;
+    top: -10px;
+    left: 100px;
+}
+
+#absolute{
+    background-color: green;
+    height: 100px;
+    opacity: 0.5;
+    position: absolute;
+    top: 40px;
+    left: 500px;
+}
+
+#fixed{
+    background-color: yellow;
+    height: 50px;
+    opacity: 0.5;
+    position: fixed;
+    top: 0px; 
+    width: 100%;
+    text-align: center;
+}

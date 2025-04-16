@@ -1,0 +1,32 @@
+/*::before*/
+#active::before{
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    border: none;
+    border-radius: 50px;
+}
+
+/*::after Selector*/
+#active::after{
+    content: 'New';
+    color: red;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 50px;
+    margin-left: 9px;
+    padding: 2px;
+    opacity: 0.5;
+}
+
+/*::first-line*/
+#text::first-line{
+    background-color: yellow;
+}
+
+/*::first-letter*/
+#text::first-letter{
+    font-size: 30px;
+}
