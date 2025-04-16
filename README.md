@@ -10,13 +10,8 @@ This project contains fundamental examples of HTML and CSS for those starting ou
 The project is organized into the following sections:
 
 ### **HTML Basics**
-📌 `index.html` – Main page  
-📌 `about.html` – About page  
-📌 `contact.html` – Contact form page  
 
 ### **CSS Styling**
-📌 `styles.css` – Stylesheet for layout, colors, and basic design  
-📌 Folder structure to organize images and assets  
 
 ---
 
