@@ -1,24 +1,34 @@
-# HtmlAndCssBasics
+# 🚀 HTML & CSS Basics
 
-Repositorio con ejemplos básicos de HTML y CSS, ideal para quienes están empezando en el desarrollo web.
-
----
-
-## 🎯 Objetivos del Proyecto
-
-- Comprender la estructura básica de un documento HTML.
-- Aplicar estilos CSS para mejorar la presentación visual.
-- Practicar la organización de archivos en un proyecto web.
-- Familiarizarse con las mejores prácticas en desarrollo web.
+## 🎯 Description
+Welcome to **HTML & CSS Basics**!  
+This project contains fundamental examples of HTML and CSS for those starting out in web development.
 
 ---
 
-## 🤝 Contribuciones
+## 📚 Contents
+The project is organized into the following sections:
 
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto:
+### **HTML Basics**
+📌 `index.html` – Main page  
+📌 `about.html` – About page  
+📌 `contact.html` – Contact form page  
 
-1. Haz un fork del repositorio.
-2. Crea una nueva rama con tus cambios:
+### **CSS Styling**
+📌 `styles.css` – Stylesheet for layout, colors, and basic design  
+📌 Folder structure to organize images and assets  
 
-   ```bash
-   git checkout -b mejora-nueva
+---
+
+## ✅ Requirements
+Before getting started, make sure you have:  
+✔ A modern web browser (Chrome, Firefox, Edge, etc.)  
+✔ A code editor (e.g., VS Code, Sublime Text, or Atom)
+
+---
+
+## 🧪 How to Use
+**Clone this repository to your local machine:**
+
+```sh
+git clone https://github.com/EddTech00/HtmlAndCssBasics.git
